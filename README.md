@@ -1,1 +1,2 @@
 # Dinosaurus-Island-Character-level-language-model.rar
+Character level language model based on recurrent nueral netwroks (RNN) to learn the patterns of given names in dataset and use the model to generate similar new names. This model uses Dinasours names as an example, However, it can be any dataset. The model takes less than 5 minutes to run and it can generate really similar names to real Dinosaurus names. 
